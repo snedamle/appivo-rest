@@ -1,0 +1,15 @@
+
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¾÷„8˜£‚Û™-
+Vsquid:S1854"8Remove this useless assignment to local variable "doc1".(ÉÖ»º8£Ø¸Û™-
+Gsquid:S1481")Remove this unused "doc1" local variable.(ÉÖ»º8£Ø¸Û™-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8˜£‚Û™-
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+Vsquid:S1197"8Move the array designator from the variable to the type.(‘–µ¥8•½øÚ™-
+1squid:S1220""Move this file to a named package.
+gsquid:S2095"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(şıÄì8’µšÛ™-
+Fsquid:S1604"(Make this anonymous inner class a lambda(ğç’û8ğ¬ß™-
+Fsquid:S1604&"(Make this anonymous inner class a lambda(Ã¬˜8ğ¬ß™-
+Esquid:S1604."(Make this anonymous inner class a lambda(Ñéİq8ğ¬ß™-

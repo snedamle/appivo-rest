@@ -1,0 +1,22 @@
+
+Esquid:S1989+"'Add a "try/catch" block for "doDelete".(ÌÂ«8­µÓÜ™-
+Fsquid:S16046"(Make this anonymous inner class a lambda(©Ë‚ï8®€”à™-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¾÷„8—¡à™-
+Usquid:S18543"7Remove this useless assignment to local variable "doc".(÷¥­ù8­µÓÜ™-
+usquid:S1450"WRemove the "database" field and declare it as a local variable in the relevant methods.(ø³ØÎ8­µÓÜ™-
+Fsquid:S1185%"(Remove this method to simply inherit it.(ğÿä—8­µÓÜ™-
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ø³ØÎ8­µÓÜ™-
+Fsquid:S14813"(Remove this unused "doc" local variable.(÷¥­ù8­µÓÜ™-
+gsquid:S2095"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(şıÄì8­µÓÜ™-
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(îŠÕüÿÿÿÿ8¸•à™-
+8squid:S1220""Move this file to a named package.8­µÓÜ™-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8®€”à™-
+Fsquid:S19891"(Add a "try/catch" block for "getReader".(ö¿²¹8­µÓÜ™-
+Bsquid:S1989&"$Add a "try/catch" block for "doPut".(»’²ï8­µÓÜ™-
+Bsquid:S1989&"$Add a "try/catch" block for "doPut".(»’²ï8­µÓÜ™-
+Esquid:S1989+"'Add a "try/catch" block for "doDelete".(ÌÂ«8­µÓÜ™-
+Ksquid:S1185*"(Remove this method to simply inherit it.(–àËµÿÿÿÿÿ8­µÓÜ™-
+Fsquid:S1604I"(Make this anonymous inner class a lambda(Ã¬˜8ş¹à™-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÏîäøÿÿÿÿ8›¯•ô™-
